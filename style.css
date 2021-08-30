@@ -139,7 +139,7 @@ marquee{
 }
 .content-2{
     width: 16.4%;
-    float: left;
+    float: right;
     padding-top: 15px;
     margin-left: 40px;
 }
@@ -181,4 +181,34 @@ marquee{
 }
 .pmain{
     margin-left: 40px;
+}
+
+/*----------foter-----*/
+.fotar{
+    background-color: slategray;
+    width: 94%;
+    margin-left: 40px;
+   
+
+}
+.text{
+    margin-top: 150px;
+}
+.font{
+    font-size: 66px;
+    color: red;
+    font-weight: bold;
+}
+.kobor{
+    align-items: center;
+}
+h5{
+    font-size: 18px;
+    color: salmon;
+}
+.kkkk{
+    margin-top: 5px;
+    margin-left: 500px;
+    
+    
 }
